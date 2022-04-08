@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_main">64dp</dimen>
+    <dimen name="margin_top_component">16dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="text_user_size">24sp</dimen>
+    <dimen name="user_img_width">120dp</dimen>
+    <dimen name="user_img_height">120dp</dimen>
+    <dimen name="text_default_size">20sp</dimen>
+    <dimen name="round_textview_width">128dp</dimen>
+    <dimen name="round_textview_height">128dp</dimen>
+    <dimen name="text_average_size">30sp</dimen>
+    <dimen name="label_default_size">22sp</dimen>
+    <dimen name="progress_default_margin">32dp</dimen>
+</resources>

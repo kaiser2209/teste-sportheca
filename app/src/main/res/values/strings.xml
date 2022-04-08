@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste Consumo Api</string>
+    <string name="dc_user_img">Imagem do Usuário</string>
+    <string name="label_won">Copas do Mundo Vencidas</string>
+    <string name="label_played">Copas do Mundo Disputadas</string>
+    <string name="error_api">Houve um erro ao recuperar os dados da API</string>
+</resources>
